@@ -1,1 +1,4 @@
-��
+1:git add . "将所有文件添加到仓库"
+2:git commit -m "提交修改文件" "提交"
+3:git remote add origin "https://github.com/duanyanyun/weixin-project.git"  "关联github仓库"
+4:git push -u origin master "上传本地代码"
